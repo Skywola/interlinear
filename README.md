@@ -1,15 +1,14 @@
-# Interlinear Movie Subtitle Creator
+ Interlinear Movie Subtitle Creator
 
-ALL OF THE FOLLOWING LINKS ARE CURRENTLY DOWN!
-I am moving my website at the moment . . . 
-
-Python 3.6.  Tested on Windows 10.  Website: http://www.tachufind.com
+Python 3.6.  Tested on Windows 10. 
 
 Create interlinear subtitles for movies using .srt subtitle files in two languages.
 The purpose program written in Python is to provide interlinear subtitles for youtube movies.   You will need to download VLC MEDIA PLAYER (http://www.videolan.org/vlc/index.html) or some other player that has a speed control and allows you to add subtitle files to the movies you watch.   Also, in case anyone is interested how to get the subtitle files from youtube, go to (http://downsub.com/) and enter the link to the youtube movie, and if there is a subtitle file available for it, you will be able to download it.  You may find the codec to be wrong, so you may need to convert that,  and to do so, you  can go to the BADAAMNG (http://badaa.mngl.net/convert/con2uni.htm) and convert it.  You will need YOUTUBE DOWNLOADER (http://download.cnet.com/ytd-video-downloader/) to download the movie. 
       If you are  creating an interlinear, most times when you open the subtitle file, you will find no line breaks . . . no problem.  Copy it and paste it into Wordpad, and it will put in the line breaks, then just copy it back into notepad, and save it with the .srt extension.  Note that the timing must be identical between two subtitle files in order to merge them into an interlinear.  Also be advised, when I create these, I normally use Google Translator, and it is not perfect, so you get some strange results sometimes, so do not expect perfection . . . . you just have to figure  it out  what they are saying from the context plus the subtitles in some cases . . .
    Below, I am posting both the link to the movie and the interlinear subtile that I have created.  Once you download the subtitle and the movie, you can then open VLC player, open the movie, set the playback speed to 60%, load the subtitle, and learn at a pace that you probably never thought possible.  With VLC Player, you can hit the spacebar to stop playback on anything you want to review, and hit it again to restart. 
 
+I am moving my website at the moment . . . 
+ALL OF THE FOLLOWING LINKS ARE CURRENTLY DOWN!
  Examples:
  Movie . . . . . . .Languages . . . .  . . . . Subtitles
  Soviet Storm . . . Russian-English . . . . . . http://tachufind.com/zips/Soviet_Storm.zip
