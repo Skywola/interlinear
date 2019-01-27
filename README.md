@@ -1,5 +1,8 @@
  Interlinear Movie Subtitle Creator
 
+I have just added my new C# source file for a C# version of this program.  It has more interactivity, so it will be easier to work with 
+than the Python version, but it has not been tested yet to any great extent.  When I have tested it enough to feel confident that it will function error-free, I will post the exe file along with the source.
+
 Python 3.6.  Tested on Windows 10. 
 
 Create interlinear subtitles for movies using .srt subtitle files in two languages.
