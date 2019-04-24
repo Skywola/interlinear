@@ -1,6 +1,6 @@
  Interlinear Movie Subtitle Creator
 
-I have just added my new C# source file for a C# version of this program (Csharp_Interlinear.zip).  It has more interactivity, so it will be easier to work with than the Python version, but it has not been tested yet to any great extent.  When I have tested it enough to feel confident that it will function error-free, I will post the exe file along with the source.
+I have just added my new C# source file for a C# version of this program (Interlinear.zip).  It has more interactivity, so it will be easier to work with than the Python version, but it has not been tested yet to any great extent.  When I have tested it enough to feel confident that it will function error-free, I will post the exe file along with the source.
 
 Python 3.6.  Tested on Windows 10. 
 
