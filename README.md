@@ -4,9 +4,10 @@ Create interlinear subtitles for movies using .srt subtitle files in two languag
       When creating an interlinear, most times when you open the subtitle file, you will find no line breaks . . . no problem.  Copy it and paste it into Wordpad, and it will put in the line breaks, then just copy it back into notepad, and save it with the .srt extension.  Note that the timing must be identical between two subtitle files in order to merge them into an interlinear.  For translation, I use SubtitleEdit, and download for example, the Russian subtitle file, open it in SubtitleEdit, then use the translate function to translate the Russian subtitle file to English. Then I have a Russian.srt and an English.srt  From there, just load the two into this program and it will combine the two into an interlinear.
 
 ALL OF THE FOLLOWING LINKS ARE CURRENTLY DOWN!
-Below, I am posting both the link to the movie and the interlinear subtile that I have created.  Once you download the subtitle and the movie, you can then open VLC player, open the movie, set the playback speed to 60%, load the subtitle, and learn at a pace that you probably never thought possible.  With VLC Player, you can hit the spacebar to stop playback on anything you want to review, and hit it again to restart. 
+Below, I am posting the link to the movies and the interlinear subtile that I have created.  Once you download the subtitle and the movie, you can then open VLC player, open the movie, set the playback speed to 60%, load the subtitle, and learn at a pace that you probably never thought possible.  With VLC Player, you can hit the spacebar to stop playback on anything you want to review, and hit it again to restart. 
 
-I am moving my website at the moment . . . 
+My website:
+https://www.archeuslore.com/russian.html
 
  Examples:
  Movie . . . . . . .Languages . . . .  . . . . Subtitles
