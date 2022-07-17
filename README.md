@@ -10,14 +10,15 @@ My website:
 https://www.archeuslore.com/russian.html
 
  Examples:
- Movie . . . . . . .Languages . . . .  . . . . Subtitles
- Soviet Storm . . . Russian-English . . . . . . http://tachufind.com/zips/Soviet_Storm.zip
- Kronstadt 1921  . .Russian-English -  . . . .  http://tachufind.com/zips/Kronstadt%201921.zip
- The Attackers . . .Russian-English * . . . . . http://tachufind.com/zips/Attackers.zip
- The Dawns Are Quiet Here . Russian-English * - http://tachufind.com/zips/Dawns%20Are%20Quiet%20Here.zip
- Hunting The Gauleiter  .Russian-English . . .  http://tachufind.com/zips/Hunting%20the%20Gauleiter.zip
- Night Swallows . . . . Russian-English . . . . http://tachufind.com/zips/Night_Swallows.zip
- Ballad Of The Bomber . English-Russian * . . . http://tachufind.com/zips/BalladOfTheBomber.zip
+ 
+ Movie                           Languages
+ Soviet Storm                 Russian-English
+ Kronstadt 1921               Russian-English
+ The Attackers                Russian-English *
+ The Dawns Are Quiet Here     Russian-English *
+ Hunting The Gauleiter        Russian-English
+ Night Swallows               Russian-English
+ Ballad Of The Bomber         English-Russian *
 
   The asterisk (*)  indicates that I have reviewed the subtitles, meaning that I have gone though and checked to find definitions or other faults that I can correct;  that does not mean that the subtitle will be perfect, by a long shot, because I am still learning Russian, and, there are just some things that only a native speaker could fix, I fix the obvious, look up definitions for words that did not get translated, and, leave anything else that I do not know how to deal with intact.  Some words you just do not find defintions for, and some of the wording defies correction without deeper knowledge of Russian.
 
